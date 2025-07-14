@@ -3,7 +3,7 @@
 Halo! 👋  
 Selamat datang di repositori portofolio saya.
 
-Repositori ini dibuat sebagai bagian dari pengajuan **magang untuk posisi IT Project Manager**. Di dalamnya terdapat file PDF berisi informasi lengkap tentang latar belakang pendidikan, pengalaman organisasi, kemampuan komunikasi, serta proyek-proyek yang telah saya kerjakan — yang relevan dengan bidang manajemen proyek di dunia IT.
+Repositori ini dibuat sebagai bagian dari pengajuan **magang untuk posisi IT Project Manager**. Di dalamnya terdapat file PDF berisi informasi lengkap tentang latar belakang pendidikan, pengalaman organisasi, kemampuan komunikasi, serta proyek-proyek yang telah saya kerjakan dan yang relevan dengan bidang manajemen proyek di dunia IT.
 
 📄 **File utama:** [Portofolio-Rizkyka_Aprilianto.pdf](Portofolio-Rizkyka_Aprilianto.pdf)
 
@@ -15,15 +15,6 @@ Saya adalah mahasiswa aktif jurusan Teknik Informatika di Universitas Indraprast
 
 ---
 
-## Keahlian Utama
-
-- Komunikasi & Kolaborasi Tim
-- Dasar Manajemen Proyek (Waterfall & Agile)
-- Microsoft Office, Trello, dan Notion
-- Dokumentasi Proyek
-- Problem Solving
-
----
 
 ## Kontak
 
